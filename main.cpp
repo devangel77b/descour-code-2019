@@ -1,4 +1,15 @@
-/ An attempt at programmed locomotion without user input.
+/** 
+descour2019-code/main.cpp
+M Descour, 2019
+
+USNA WRCE honors capstone project open loop control code for a 
+soft robotic pneumatic bending actuator to simulate leech-like
+inchworm crawling.
+
+Additions and refactored for Github repository D Evangelista and L DeVries.
+*/
+
+// An attempt at programmed locomotion without user input.
 
 #include "mbed.h"
 Serial pc(USBTX, USBRX);

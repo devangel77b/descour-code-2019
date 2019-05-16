@@ -1,3 +1,14 @@
+/** 
+TESTS/subsystem/Inflation/main.cpp
+M Descour, 2019
+
+USNA WRCE honors capstone project open loop control code for a 
+soft robotic pneumatic bending actuator to simulate leech-like
+inchworm crawling.
+
+Additions and refactored for Github repository D Evangelista and L DeVries.
+*/
+
 // Code to inflate/deflate the actuator. User may also increase/decrease PWM
 
 #include "mbed.h"

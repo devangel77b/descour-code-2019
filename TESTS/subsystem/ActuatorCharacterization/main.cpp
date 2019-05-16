@@ -1,3 +1,14 @@
+/** 
+TESTS/subsystem/ActuatorCharacterization/main.cpp
+M Descour, 2019
+
+USNA WRCE honors capstone project open loop control code for a 
+soft robotic pneumatic bending actuator to simulate leech-like
+inchworm crawling.
+
+Additions and refactored for Github repository D Evangelista and L DeVries.
+*/
+
 //Code used for Actuator Characterization. Records data for 20 seconds. Inflation begins at 5 seconds and lasts for 10 seconds.
 
 #include "mbed.h"
